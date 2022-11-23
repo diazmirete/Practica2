@@ -7,4 +7,15 @@
     <string name="Notas">Notas</string>
     <string name="Aceptar">Aceptar</string>
     <string name="Cancelar">Cancelar</string>
+    <string name="Titulo">Ignacio Diaz Mirete - Práctica 2</string>
+    <string name="Agenda">Agenda</string>
+    <string name="Receta">Receta</string>
+    <string name="mensajeAceptar">Es necesatio introducir Nombre y Apellidos para aceptar</string>
+    <string name="tarta_de_kit_kat">Tarta de Kit Kat</string>
+    <string name="descripcion">Descripción</string>
+    <string name="ingredientes">Ingredientes</string>
+    <string name="texto_descripcion">El Kit Kat siempre ha sido un gran aliado a la hora de matar el gusanillo dulce. Clásicas y deliciosas, estas barritas de chocolate se adaptan a cualquier situación, si bien siempre podemos ir más allá a la hora de sorprender y potenciar aún más su sabor.</string>
+    <string name="texto_receta">125 gr de mantequilla, 168 ml de leche, 3 paquetes de Kit Kat, 500 ml de nata para montar, 3 cucharadas soperas de azúcar, 230 gramos de azúcar, 3 claras de huevo, 1 cucharada de extracto de vainilla (opcional), 190 gr de harina ,10 gr de levadura.</string>
+    <string name="receta">Receta</string>
+    <string name="texto_pasos">Primer paso: Prepara el bizcocho de base en función de tus gustos o siguiendo la receta clásica. Segundo paso: Bate bien la mantenquilla combinada con el azúcar hasta que quede cremoso. Una vez hecho, añade el extracto de vainilla y bate un poco más. Tercer paso: Una vez todo esté mezclado, añade las claras poco a poco. También puedes batirlas a punto de nieve. Cuarto paso: Añade la levadura y la harina poco a poco. Una vez toda la masa quede compacta, métela en un molde. Quinto paso: Mete el molde al horno a 180º y deja cocer el bizcocho durante 25 minutos. Sexto paso: Mientras, monta la nata como parte de la estructura y añade 3 cucharadas de azúcar. Séptimo paso: Aparta el bizcocho del horno, coloca encima la nata y rodea toda la estructura con barritas 0000de Kit Kat. Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.</string>
 </resources>
